@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
-import 'my_app/my_app.dart';
+import 'gallery/app.dart';
 
-void main() => runApp(MyApp());
+void main() => runApp(GalleryApp());
 
 
 
